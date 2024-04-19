@@ -1,6 +1,7 @@
 package com.koreait.exam.batch_ex_24_04.job.withParam;
 
 import lombok.RequiredArgsConstructor;
+
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
